@@ -1,0 +1,205 @@
+E:\Antivirus Project\Antivirus\Antivirus\bin\Debug\Antivirus.exe
+E:\Antivirus Project\Antivirus\Antivirus\bin\Debug\Antivirus.pdb
+E:\Antivirus Project\Antivirus\Antivirus\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Antivirus Project\Antivirus\Antivirus\obj\x86\Debug\Antivirus.Properties.Resources.resources
+E:\Antivirus Project\Antivirus\Antivirus\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Antivirus Project\Antivirus\Antivirus\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Antivirus Project\Antivirus\Antivirus\obj\x86\Debug\Antivirus.exe
+E:\Antivirus Project\Antivirus\Antivirus\obj\x86\Debug\Antivirus.pdb
+E:\Antivirus Project\Antivirus\Antivirus\obj\x86\Debug\Antivirus.frmAntivirus.resources
+E:\Antivirus Project\Antivirus\Antivirus\obj\x86\Debug\Antivirus.Form2.resources
+E:\Antivirus\Antivirus\obj\x86\Debug\Antivirus.exe
+E:\Antivirus\Antivirus\obj\x86\Debug\Antivirus.pdb
+E:\Antivirus\Antivirus\bin\Debug\Antivirus.exe
+E:\Antivirus\Antivirus\bin\Debug\Antivirus.pdb
+E:\Antivirus\Antivirus\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Antivirus\Antivirus\obj\x86\Debug\Antivirus.frmAntivirus.resources
+E:\Antivirus\Antivirus\obj\x86\Debug\Antivirus.Form2.resources
+E:\Antivirus\Antivirus\obj\x86\Debug\Antivirus.Properties.Resources.resources
+E:\Antivirus\Antivirus\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Antivirus\Antivirus\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Antivirus\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.exe
+E:\Antivirus\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.pdb
+E:\Antivirus\Antivirus pro\Antivirus\bin\Debug\Antivirus.exe
+E:\Antivirus\Antivirus pro\Antivirus\bin\Debug\Antivirus.pdb
+E:\Antivirus\Antivirus pro\Antivirus\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Antivirus\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.frmAntivirus.resources
+E:\Antivirus\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.Form2.resources
+E:\Antivirus\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.Properties.Resources.resources
+E:\Antivirus\Antivirus pro\Antivirus\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Antivirus\Antivirus pro\Antivirus\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Antivirus\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.Form3.resources
+E:\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.exe
+E:\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.pdb
+E:\Antivirus pro\Antivirus\bin\Debug\Antivirus.exe
+E:\Antivirus pro\Antivirus\bin\Debug\Antivirus.pdb
+E:\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.frmAntivirus.resources
+E:\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.Form2.resources
+E:\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.Form3.resources
+E:\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.Properties.Resources.resources
+E:\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.csprojResolveAssemblyReference.cache
+E:\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.csproj.GenerateResource.Cache
+E:\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.splash.resources
+E:\Antivirus pro\Antivirus\bin\Debug\Antivirus.exe.config
+I:\Antivirus pro\Antivirus\bin\Debug\Antivirus.exe.config
+I:\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.exe
+I:\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.pdb
+I:\Antivirus pro\Antivirus\bin\Debug\Antivirus.exe
+I:\Antivirus pro\Antivirus\bin\Debug\Antivirus.pdb
+I:\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.csprojResolveAssemblyReference.cache
+I:\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.frmAntivirus.resources
+I:\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.Form2.resources
+I:\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.Form3.resources
+I:\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.splash.resources
+I:\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.csproj.GenerateResource.Cache
+I:\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.Properties.Resources.resources
+I:\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.frm_splsh.resources
+H:\Antivirus pro\Antivirus\bin\Debug\Antivirus.exe.config
+H:\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.exe
+H:\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.pdb
+H:\Antivirus pro\Antivirus\bin\Debug\Antivirus.exe
+H:\Antivirus pro\Antivirus\bin\Debug\Antivirus.pdb
+H:\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.csprojResolveAssemblyReference.cache
+H:\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.frmAntivirus.resources
+H:\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.Form2.resources
+H:\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.Form3.resources
+H:\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.splash.resources
+H:\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.Properties.Resources.resources
+H:\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.frm_splsh.resources
+H:\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.csproj.GenerateResource.Cache
+G:\Antivirus pro\Antivirus\bin\Debug\Antivirus.exe.config
+G:\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.exe
+G:\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.pdb
+G:\Antivirus pro\Antivirus\bin\Debug\Antivirus.exe
+G:\Antivirus pro\Antivirus\bin\Debug\Antivirus.pdb
+G:\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.csprojResolveAssemblyReference.cache
+G:\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.frmAntivirus.resources
+G:\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.Form2.resources
+G:\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.Form3.resources
+G:\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.splash.resources
+G:\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.Properties.Resources.resources
+G:\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.frm_splsh.resources
+G:\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.csproj.GenerateResource.Cache
+E:\New folder (3)\Antivirus pro\Antivirus\bin\Debug\Antivirus.exe.config
+E:\New folder (3)\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.exe
+E:\New folder (3)\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.pdb
+E:\New folder (3)\Antivirus pro\Antivirus\bin\Debug\Antivirus.exe
+E:\New folder (3)\Antivirus pro\Antivirus\bin\Debug\Antivirus.pdb
+E:\New folder (3)\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.csprojResolveAssemblyReference.cache
+E:\New folder (3)\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.frmAntivirus.resources
+E:\New folder (3)\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.Form2.resources
+E:\New folder (3)\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.Form3.resources
+E:\New folder (3)\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.splash.resources
+E:\New folder (3)\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.Properties.Resources.resources
+E:\New folder (3)\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.frm_splsh.resources
+E:\New folder (3)\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.csproj.GenerateResource.Cache
+E:\Programming Laboratory\Senior Project\AV 3.0\Antivirus pro\Antivirus\bin\Debug\Antivirus.exe.config
+E:\Programming Laboratory\Senior Project\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.exe
+E:\Programming Laboratory\Senior Project\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.pdb
+E:\Programming Laboratory\Senior Project\AV 3.0\Antivirus pro\Antivirus\bin\Debug\Antivirus.exe
+E:\Programming Laboratory\Senior Project\AV 3.0\Antivirus pro\Antivirus\bin\Debug\Antivirus.pdb
+E:\Programming Laboratory\Senior Project\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.csprojResolveAssemblyReference.cache
+E:\Programming Laboratory\Senior Project\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.frmAntivirus.resources
+E:\Programming Laboratory\Senior Project\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.Form2.resources
+E:\Programming Laboratory\Senior Project\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.Form3.resources
+E:\Programming Laboratory\Senior Project\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.splash.resources
+E:\Programming Laboratory\Senior Project\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.Properties.Resources.resources
+E:\Programming Laboratory\Senior Project\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.frm_splsh.resources
+E:\Programming Laboratory\Senior Project\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.csproj.GenerateResource.Cache
+H:\AV 3.0\Antivirus pro\Antivirus\bin\Debug\Antivirus.exe.config
+H:\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.exe
+H:\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.pdb
+H:\AV 3.0\Antivirus pro\Antivirus\bin\Debug\Antivirus.exe
+H:\AV 3.0\Antivirus pro\Antivirus\bin\Debug\Antivirus.pdb
+H:\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.csprojResolveAssemblyReference.cache
+H:\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.frmAntivirus.resources
+H:\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.Form2.resources
+H:\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.Form3.resources
+H:\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.splash.resources
+H:\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.Properties.Resources.resources
+H:\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.frm_splsh.resources
+H:\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.csproj.GenerateResource.Cache
+C:\Users\Hagos\Desktop\AV 3.0\Antivirus pro\Antivirus\bin\Debug\Antivirus.exe.config
+C:\Users\Hagos\Desktop\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.exe
+C:\Users\Hagos\Desktop\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.pdb
+C:\Users\Hagos\Desktop\AV 3.0\Antivirus pro\Antivirus\bin\Debug\Antivirus.exe
+C:\Users\Hagos\Desktop\AV 3.0\Antivirus pro\Antivirus\bin\Debug\Antivirus.pdb
+C:\Users\Hagos\Desktop\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.csprojResolveAssemblyReference.cache
+C:\Users\Hagos\Desktop\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.frmAntivirus.resources
+C:\Users\Hagos\Desktop\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.Form2.resources
+C:\Users\Hagos\Desktop\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.Form3.resources
+C:\Users\Hagos\Desktop\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.splash.resources
+C:\Users\Hagos\Desktop\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.Properties.Resources.resources
+C:\Users\Hagos\Desktop\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.frm_splsh.resources
+C:\Users\Hagos\Desktop\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.csproj.GenerateResource.Cache
+F:\AV 3.0\Antivirus pro\Antivirus\bin\Debug\Antivirus.exe.config
+F:\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.exe
+F:\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.pdb
+F:\AV 3.0\Antivirus pro\Antivirus\bin\Debug\Antivirus.exe
+F:\AV 3.0\Antivirus pro\Antivirus\bin\Debug\Antivirus.pdb
+F:\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.csprojResolveAssemblyReference.cache
+F:\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.frmAntivirus.resources
+F:\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.Properties.Resources.resources
+F:\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.frm_splsh.resources
+F:\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.csproj.GenerateResource.Cache
+F:\Antivirus Final Project\AV 3.0\Antivirus pro\Antivirus\bin\Debug\Antivirus.exe.config
+F:\Antivirus Final Project\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.exe
+F:\Antivirus Final Project\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.pdb
+F:\Antivirus Final Project\AV 3.0\Antivirus pro\Antivirus\bin\Debug\Antivirus.exe
+F:\Antivirus Final Project\AV 3.0\Antivirus pro\Antivirus\bin\Debug\Antivirus.pdb
+F:\Antivirus Final Project\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.frmAntivirus.resources
+F:\Antivirus Final Project\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.Properties.Resources.resources
+F:\Antivirus Final Project\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.frm_splsh.resources
+F:\Antivirus Final Project\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.exe.manifest
+F:\Antivirus Final Project\AV 3.0\Antivirus pro\Antivirus\bin\Debug\Antivirus.exe.manifest
+F:\Antivirus Final Project\AV 3.0\Antivirus pro\Antivirus\bin\Debug\Antivirus.application
+F:\Antivirus Final Project\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.application
+E:\Antivirus Final Project\AV 3.0\Antivirus pro\Antivirus\bin\Debug\Antivirus.exe.config
+E:\Antivirus Final Project\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.exe
+E:\Antivirus Final Project\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.pdb
+E:\Antivirus Final Project\AV 3.0\Antivirus pro\Antivirus\bin\Debug\Antivirus.exe.manifest
+E:\Antivirus Final Project\AV 3.0\Antivirus pro\Antivirus\bin\Debug\Antivirus.application
+E:\Antivirus Final Project\AV 3.0\Antivirus pro\Antivirus\bin\Debug\Antivirus.exe
+E:\Antivirus Final Project\AV 3.0\Antivirus pro\Antivirus\bin\Debug\Antivirus.pdb
+E:\Antivirus Final Project\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.csprojResolveAssemblyReference.cache
+E:\Antivirus Final Project\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.frmAntivirus.resources
+E:\Antivirus Final Project\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.Properties.Resources.resources
+E:\Antivirus Final Project\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.frm_splsh.resources
+E:\Antivirus Final Project\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.csproj.GenerateResource.Cache
+E:\Antivirus Final Project\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.exe.manifest
+E:\Antivirus Final Project\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.application
+D:\Antivirus Final Project\AV 3.0\Antivirus pro\Antivirus\bin\Debug\Antivirus.exe.config
+D:\Antivirus Final Project\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.pdb
+F:\Antivirus Final Project\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Antivirus Final Project\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Antivirus Final Project\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Desktop\Antivirus Final Project\AV 3.0\Antivirus pro\Antivirus\bin\Debug\Antivirus.exe.config
+C:\Users\Admin\Desktop\Antivirus Final Project\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.exe
+C:\Users\Admin\Desktop\Antivirus Final Project\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.pdb
+C:\Users\Admin\Desktop\Antivirus Final Project\AV 3.0\Antivirus pro\Antivirus\bin\Debug\Antivirus.exe.manifest
+C:\Users\Admin\Desktop\Antivirus Final Project\AV 3.0\Antivirus pro\Antivirus\bin\Debug\Antivirus.application
+C:\Users\Admin\Desktop\Antivirus Final Project\AV 3.0\Antivirus pro\Antivirus\bin\Debug\Antivirus.exe
+C:\Users\Admin\Desktop\Antivirus Final Project\AV 3.0\Antivirus pro\Antivirus\bin\Debug\Antivirus.pdb
+C:\Users\Admin\Desktop\Antivirus Final Project\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Antivirus Final Project\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.frmAntivirus.resources
+C:\Users\Admin\Desktop\Antivirus Final Project\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.Properties.Resources.resources
+C:\Users\Admin\Desktop\Antivirus Final Project\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.frm_splsh.resources
+C:\Users\Admin\Desktop\Antivirus Final Project\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Desktop\Antivirus Final Project\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Desktop\Antivirus Final Project\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.exe.manifest
+C:\Users\Admin\Desktop\Antivirus Final Project\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.application
+C:\Users\Admin\Desktop\ARGEFOM SOURCE\AV 3.0\Antivirus pro\Antivirus\bin\Debug\Antivirus.exe.config
+C:\Users\Admin\Desktop\ARGEFOM SOURCE\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.exe
+C:\Users\Admin\Desktop\ARGEFOM SOURCE\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.pdb
+C:\Users\Admin\Desktop\ARGEFOM SOURCE\AV 3.0\Antivirus pro\Antivirus\bin\Debug\Antivirus.exe.manifest
+C:\Users\Admin\Desktop\ARGEFOM SOURCE\AV 3.0\Antivirus pro\Antivirus\bin\Debug\Antivirus.application
+C:\Users\Admin\Desktop\ARGEFOM SOURCE\AV 3.0\Antivirus pro\Antivirus\bin\Debug\Antivirus.exe
+C:\Users\Admin\Desktop\ARGEFOM SOURCE\AV 3.0\Antivirus pro\Antivirus\bin\Debug\Antivirus.pdb
+C:\Users\Admin\Desktop\ARGEFOM SOURCE\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ARGEFOM SOURCE\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.frmAntivirus.resources
+C:\Users\Admin\Desktop\ARGEFOM SOURCE\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.Properties.Resources.resources
+C:\Users\Admin\Desktop\ARGEFOM SOURCE\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.frm_splsh.resources
+C:\Users\Admin\Desktop\ARGEFOM SOURCE\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Desktop\ARGEFOM SOURCE\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Desktop\ARGEFOM SOURCE\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.exe.manifest
+C:\Users\Admin\Desktop\ARGEFOM SOURCE\AV 3.0\Antivirus pro\Antivirus\obj\x86\Debug\Antivirus.application

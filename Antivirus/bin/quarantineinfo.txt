@@ -1,0 +1,2 @@
+virus=H:\viruses_2_2\kgrxrq.exe
+virus=H:\viruses_2_2\sxekmy.exe
